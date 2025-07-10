@@ -22,13 +22,24 @@
 ### :man_technologist: Sobre mí :
 Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🌍 Based in Bogotá, Colombia.
+- 🌍 Based in Mexico.
 
-💼 Currently working as a Quality Analyst at Belcorp, specializing in data analysis and process optimization.
+- 🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
 
-🎓 Pursuing an MBA in Big Data & Business Intelligence to deepen my expertise in advanced analytics.
+- 🚀 Currently learning about data analysis, databases and programing.
 
-🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
 
 <!--
 **Elias-Terrazas/Elias-Terrazas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
