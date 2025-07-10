@@ -13,14 +13,14 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-terrazas/)
 
 <h1>
-  Hola soy Elias. ¡Encantado de conocerte!
+  Hi I´m Elias Terrazas.
   
 </h1>
 
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics 
+Passionate about technology and enjoying a career transition to Data Analytics 
 
 - 🌍 Based in Mexico.
 
