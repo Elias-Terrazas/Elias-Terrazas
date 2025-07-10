@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Elias-Terrazas/Elias-Terrazas/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/Elias-Terrazas/Elias-Terrazas/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" width="400"/>
 </div>
 
 
