@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Elias-Terrazas/Elias-Terrazas/blob/414fdcf1f7d6d401f2975beefc316540895d0c48/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png" width="1100"/>
@@ -19,7 +19,7 @@
 
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: About me :
 Passionate about technology and enjoying a career transition to Data Analytics 
 
 - 🌍 Based in Mexico.
