@@ -17,6 +17,15 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+🌍 Based in Bogotá, Colombia.
+💼 Currently working as a Quality Analyst at Belcorp, specializing in data analysis and process optimization.
+🎓 Pursuing an MBA in Big Data & Business Intelligence to deepen my expertise in advanced analytics.
+🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
 <!--
 **Elias-Terrazas/Elias-Terrazas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
